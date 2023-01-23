@@ -4,3 +4,7 @@ __pycache__
 *.db
 *.pytest_cache
 *-solution*
+2Phase/completed/data/
+3Phase/completed/Untitled.ipynb
+3Phase/completed/images/
+4Phase/54-kmeans_clustering-completed.ipynb
